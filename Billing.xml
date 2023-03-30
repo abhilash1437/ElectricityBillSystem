@@ -1,0 +1,109 @@
+﻿   <Row ss:Index="1">
+    <Cell><Data ss:Type="String">BillingId</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">CustId</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">AccountId</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">PaymentMode</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">PaymentDate</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">BillAmount</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">PaidAmount</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">ExcessPaid</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="2">
+    <Cell><Data ss:Type="String">BillID-1</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">3412076881</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">103</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Online</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="DateTime">2022-10-01T00:00:00.000</Data>
+    </Cell>
+    <Cell ss:StyleID="S22"><Data ss:Type="Number">2700</Data>
+    </Cell>
+    <Cell ss:StyleID="S22"><Data ss:Type="Number">3000</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">300</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="3">
+    <Cell><Data ss:Type="String">BillID-2</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">6513487148</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">104</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Manual</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="String">15/05/2017</Data>
+    </Cell>
+    <Cell ss:StyleID="S22"><Data ss:Type="Number">565.5</Data>
+    </Cell>
+    <Cell ss:StyleID="S22"><Data ss:Type="Number">600</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">34.5</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="4">
+    <Cell><Data ss:Type="String">BillID-3</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">5631208671</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">105</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Manual</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="DateTime">2022-03-12T00:00:00.000</Data>
+    </Cell>
+    <Cell ss:StyleID="S22"><Data ss:Type="Number">1500.9000000000001</Data>
+    </Cell>
+    <Cell ss:StyleID="S22"><Data ss:Type="Number">1501</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.10000000000000001</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="5">
+    <Cell><Data ss:Type="String">BillID-4</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">3891042798</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">106</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Online</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="DateTime">2022-10-10T00:00:00.000</Data>
+    </Cell>
+    <Cell ss:StyleID="S22"><Data ss:Type="Number">3000.7399999999998</Data>
+    </Cell>
+    <Cell ss:StyleID="S22"><Data ss:Type="Number">3001</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.26000000000000001</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="6">
+    <Cell><Data ss:Type="String">BillID-5</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">4677209218</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">107</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Online</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="DateTime">2022-06-11T00:00:00.000</Data>
+    </Cell>
+    <Cell ss:StyleID="S22"><Data ss:Type="Number">1000.6</Data>
+    </Cell>
+    <Cell ss:StyleID="S22"><Data ss:Type="Number">1001</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.40000000000000002</Data>
+    </Cell>
+   </Row>
+  

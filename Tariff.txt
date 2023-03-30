@@ -1,0 +1,6 @@
+TariffId	TariffType	TariffDescription
+TID-1	Simple Tariff	fixed rate is applied.
+TID-2	Flat Rate Tariff	different types of consumers are charged at different rates of cost per unit.
+TID-3	Block Rate Tariff	charged per block. rate per unit in each block is fixed.
+TID-4	Two Part Tariff	two components: fixed charges and running charges.
+TID-5	Maximum Demand Tariff	energy consumed is charged on the basis of maximum demand.

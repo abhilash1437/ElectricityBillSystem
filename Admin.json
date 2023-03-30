@@ -1,0 +1,37 @@
+[
+ {
+  "AdminId": "Admin-1",
+  "AdminName": "Priya L",
+  "LoginId": "BS-0001",
+  "Password": "Mango!123",
+  "AdminType": "Admin"
+ },
+ {
+  "AdminId": "Admin-2",
+  "AdminName": "Gokul A",
+  "LoginId": "BS-0002",
+  "Password": "Chevrolet#124",
+  "AdminType": "Employee"
+ },
+ {
+  "AdminId": "Admin-3",
+  "AdminName": "Kaviya S",
+  "LoginId": "BS-0003",
+  "Password": "Passwor)(*&",
+  "AdminType": "Admin"
+ },
+ {
+  "AdminId": "Admin-4",
+  "AdminName": "Guhan N",
+  "LoginId": "BS-0004",
+  "Password": "Spring$%^&",
+  "AdminType": "Employee"
+ },
+ {
+  "AdminId": "Admin-5",
+  "AdminName": "Kishore M",
+  "LoginId": "BS-0005",
+  "Password": "University!@#",
+  "AdminType": "Employee"
+ }
+]

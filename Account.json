@@ -1,0 +1,32 @@
+[
+ {
+  "AccountId": 103,
+  "CustId": 3412076881,
+  "AccountNo": 10020103,
+  "ElectricityBoardId": "B11"
+ },
+ {
+  "AccountId": 104,
+  "CustId": 6513487148,
+  "AccountNo": 10020104,
+  "ElectricityBoardId": "B12"
+ },
+ {
+  "AccountId": 105,
+  "CustId": 5631208671,
+  "AccountNo": 10020105,
+  "ElectricityBoardId": "B13"
+ },
+ {
+  "AccountId": 106,
+  "CustId": 3891042798,
+  "AccountNo": 10020106,
+  "ElectricityBoardId": "B14"
+ },
+ {
+  "AccountId": 107,
+  "CustId": 4677209218,
+  "AccountNo": 10020107,
+  "ElectricityBoardId": "B15"
+ }
+]
