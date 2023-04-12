@@ -1,0 +1,113 @@
+use electricity;
+select * from tariff;
+
+use electricity;
+insert into tariff values ('TID-1','Simple Tariff','fixed rate is applied.');
+
+
+use electricity;
+insert into tariff values ('TID-2','Flat Rate Tariff','different types of consumers are charged at different rates of cost per unit.');
+
+use electricity;
+insert into tariff values ('TID-3','Block Rate Tariff','charged per block. rate per unit in each block is fixed.');
+		----------------------------
+		
+use electricity;
+select * from customer;
+
+use electricity;
+insert into customer values (3412,'Vishali T','07-Tirunelveli','Vishali.t@gmail.com');
+
+
+use electricity;
+insert into customer values (6513,'Mohan K','08-vellore','Mohan.K@gmail.com');
+
+use electricity;
+insert into customer values (5631,'Charan K','06-trichy','Charan.K@gmail.com');
+---------------------
+
+use electricity;
+select * from Admin;
+
+use electricity;
+insert into Admin values (11,'Priya L',0001,'Mango!123','Admin');
+
+use electricity;
+insert into Admin values (22,'Gokul A',0002,'Chevrolet#124','Employee');
+
+use electricity;
+insert into Admin values (33,'Kaviya S',0003,'Passwor)(*&','Admin');
+--------------------------
+
+select * from feedback;
+
+use electricity;
+insert into feedback values (01,3412,'Good',3412);
+
+
+use electricity;
+insert into feedback values (02,6513,'Need Better Service',6513);
+
+
+use electricity;
+insert into feedback values (03,5631,'Satisfied',5631);
+
+--------------use electricity;
+select * from account;
+
+use electricity;
+insert into account values (103,3412,10020103,'B11',3412);
+
+
+use electricity;
+insert into account values (104,6513,10020104,'B12',6513);
+
+
+use electricity;
+insert into account values (105,5631,10020105,'B13',5631);
+
+
+---------------------------
+
+use electricity;
+select * from electricityBoard;
+
+use electricity;
+insert into electricityBoard values ('B11','1/42,chennai',103);
+
+
+use electricity;
+insert into electricityBoard values ('B12','90,Coimabtore',104);
+
+use electricity;
+insert into electricityBoard values ('B13','34/5,chennai',105);
+
+-----------------
+
+use electricity;
+select * from invoice;
+
+use electricity;
+insert into invoice values ('IV-1','B11',103,3412,'B11','TID-1','TID-1');
+
+
+
+use electricity;
+insert into invoice values ('IV-2','B12',104,6513,'B12','TID-2','TID-2');
+
+use electricity;
+insert into invoice values ('IV-3','B13',105,5631,'B13','TID-3','TID-3');
+
+------------------
+use electricity;
+select * from billing;
+
+use electricity;
+insert into billing values (111,3412,103,'Online',curdate(),2700,3000,300,3412);
+
+use electricity;
+insert into billing values (222,6513,104,'Manual',curdate(),565,600,35,6513);
+
+
+use electricity;
+insert into billing values (333,5631,105,'Manual',curdate(),1500,1501,1,5631);
